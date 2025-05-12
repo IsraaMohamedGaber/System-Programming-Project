@@ -24,19 +24,21 @@ We perform the following tasks:
 ## 🖼️ System Diagram 
 
 # regular expression
-![image](https://github.com/user-attachments/assets/a23f42b4-b64c-4726-8287-37245b27d102)
+
+![image](https://github.com/user-attachments/assets/99058a1b-70b8-44d2-bbd8-eb032a59bb63)
+
 
 ---
 # NFA
-![image](https://github.com/user-attachments/assets/fe22f670-53f4-44d0-ae71-276234d3bfad)
+![image](https://github.com/user-attachments/assets/2511ae9d-2f4c-4a14-a43d-61cd4fb6fef8)
 
 ---
 # DFA
-![image](https://github.com/user-attachments/assets/0a294173-7092-41cf-b571-1786f14c93aa)
+![image](https://github.com/user-attachments/assets/b3fe4017-1702-4d41-a291-afb805c0df9f)
 
 ---
 # CFG
-![image](https://github.com/user-attachments/assets/6ea2cd9a-c5cc-441d-b3e6-446d3e625c8b)
+![image](https://github.com/user-attachments/assets/992c84c6-38c7-4085-8ed5-0ca2a6ecba1c)
 
 
 ---
