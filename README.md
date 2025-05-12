@@ -25,12 +25,15 @@ We perform the following tasks:
 
 # regular expression
 ![image](https://github.com/user-attachments/assets/a23f42b4-b64c-4726-8287-37245b27d102)
+
 ---
 # NFA
 ![image](https://github.com/user-attachments/assets/fe22f670-53f4-44d0-ae71-276234d3bfad)
+
 ---
 # DFA
 ![image](https://github.com/user-attachments/assets/0a294173-7092-41cf-b571-1786f14c93aa)
+
 ---
 # CFG
 ![image](https://github.com/user-attachments/assets/6ea2cd9a-c5cc-441d-b3e6-446d3e625c8b)
